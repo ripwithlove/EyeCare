@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">आई केयर</string>
+    <string name="a11y_desc">यह सेवा सिर्फ़ Instagram, YouTube, Facebook जैसे ऐप्स में स्क्रॉल की गिनती करती है ताकि रील्स/शॉर्ट्स की संख्या बताई जा सके। यह कोई टेक्स्ट, पासवर्ड या मैसेज नहीं पढ़ती और कोई डेटा इंटरनेट पर नहीं भेजती।</string>
+</resources>
